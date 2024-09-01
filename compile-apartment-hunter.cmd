@@ -1,0 +1,1 @@
+PATH\pyinstaller.exe --onefile --noconsole olx.py

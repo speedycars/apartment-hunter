@@ -1,0 +1,1 @@
+start "Apartament Hunter" /min "PATH\apartment-hunter.cmd"

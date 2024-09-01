@@ -10,6 +10,7 @@ import re
 import smtplib
 import random
 
+
 def requests_retry_session(
     retries=50,
     backoff_factor=0.3,
